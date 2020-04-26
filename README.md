@@ -1,2 +1,6 @@
 # web-335
-Web Development Class - WEB-335
+Introduction to NoSQL  
+
+# contributors
+Johnny Kobyluck  
+Professor Krasso  
